@@ -188,4 +188,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or suggestions, please open an issue or contact [your-email@domain.com]
+For questions or suggestions, please open an issue or contact [vikigamer@gmail.com]
