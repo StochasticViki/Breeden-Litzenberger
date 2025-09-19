@@ -1,6 +1,6 @@
 # Risk-Neutral Density (RND) Estimation for Equity Risk Premium Analysis
 
-This project implements a method to extract Risk-Neutral Density (RND) from options market data using the Breeden-Litzenberger methodology, with applications to Equity Risk Premium (ERP) estimation.
+This is a part of the ERP Study that I was working on. In the project, I extracted the Risk-Neutral Density (RND) from NIFTY 50 options data using the Breeden-Litzenberger methodology, and then subtracted the risk neutral mean return from the physical mean return estimated using Multistaged Gordon Growth Model.
 
 ## Overview
 
